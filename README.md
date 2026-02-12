@@ -44,6 +44,17 @@ bash MMDetection/tools/dist_train.sh MMDetection/peft_configs/config/retinanet_s
 
 # Citation (TBD)
 If our work is helpful for your research, please cite:
+
+```angular2html
+
+@inproceedings{yin2026212,
+  title={1\% \textgreater 100\%: High-Efficiency Visual Adapter with Complex Linear Projection Optimization },
+  author={Yin, Dongshuo and Yang, Xue and Fan, Deng-Ping and Hu, Shi-Min},
+  journal={arXiv preprint arXiv:2602.10513},
+  year={2026}
+}
+```
+
 ```angular2html
 
 @inproceedings{yin20255,
