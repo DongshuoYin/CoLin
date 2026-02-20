@@ -42,7 +42,7 @@ bash MMDetection/tools/dist_train.sh MMDetection/peft_configs/config/retinanet_s
 ## Classification (TBD)
 
 
-# Citation (TBD)
+# Citation
 If our work is helpful for your research, please cite:
 
 ```angular2html
