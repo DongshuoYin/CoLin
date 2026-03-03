@@ -2,7 +2,7 @@
 
 ## 🔥[arXiv] 1% > 100% : High-Efficiency Visual Adapter with Complex Linear Projection Optimization
 
-### [arXiv homepage](xxx) |  [PDF]()
+### [arXiv homepage](https://arxiv.org/abs/2602.10513) |  [PDF](https://arxiv.org/pdf/2602.10513)
 
 ![teaser](resources/colin.png)
 
